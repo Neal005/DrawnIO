@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T10:54:20.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Nr-W84HwV7vhNSdDGwye" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T10:57:11.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="qSOhaD19dbidApW_lGpM" version="24.0.1" type="github">
   <diagram name="Page-1" id="0Eo-lp6eJPoa2dQFOfi3">
     <mxGraphModel dx="1434" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -61,6 +61,9 @@
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz2kB1jtn7iizVKoX1TH-7" target="Iz2kB1jtn7iizVKoX1TH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Iz2kB1jtn7iizVKoX1TH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iz2kB1jtn7iizVKoX1TH-7" target="Iz2kB1jtn7iizVKoX1TH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-7" value="Quản lí danh mục" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="782" y="487" width="120" height="60" as="geometry" />
         </mxCell>
@@ -77,22 +80,22 @@
           <mxGeometry x="707" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-10" value="Cập nhật dược phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="724" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="708" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-11" value="Cập nhật nhân viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="838" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-12" value="Cập nhật bác sĩ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="946" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="922" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-13" value="Cập nhật khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1055" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1032" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-14" value="Cập nhật dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1151" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-15" value="Cập nhật khuyến mãi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1254" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1227" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iz2kB1jtn7iizVKoX1TH-16" value="Lập báo cáo thống kê số lượng khách hàng theo dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1192" y="596" width="120" height="60" as="geometry" />
