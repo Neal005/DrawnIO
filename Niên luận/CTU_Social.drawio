@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="thldua14ZTXM0ZRRVlnX">
-    <mxGraphModel dx="1687" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
         <mxCell id="zrPP4EijBJYdfeZ9ZNH7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zrPP4EijBJYdfeZ9ZNH7-45" target="zrPP4EijBJYdfeZ9ZNH7-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zrPP4EijBJYdfeZ9ZNH7-45" value="Reload trang" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zrPP4EijBJYdfeZ9ZNH7-45" value="Hoàn thành chỉnh sửa thông tin người dùng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1331" y="789" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrPP4EijBJYdfeZ9ZNH7-46" value="Hợp lệ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -191,7 +191,7 @@
         <mxCell id="zrPP4EijBJYdfeZ9ZNH7-48" value="End" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1361" y="962" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zrPP4EijBJYdfeZ9ZNH7-49" value="Sửa họ, tên, bios, giới&lt;div&gt;tính hoặc ảnh đại diện&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="zrPP4EijBJYdfeZ9ZNH7-49" value="Sửa ảnh đại diện, họ,&lt;div&gt;tên, bios, giới&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;tính, khoa, ngành, khóa hoặc ẩn&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;thông tin người dùng&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1306" y="282" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zrPP4EijBJYdfeZ9ZNH7-50" value="Chỉnh sửa hồ sơ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
