@@ -406,7 +406,7 @@
         <mxCell id="I4O5xyEKgsiIxu2QFyqc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I4O5xyEKgsiIxu2QFyqc-11" target="I4O5xyEKgsiIxu2QFyqc-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4O5xyEKgsiIxu2QFyqc-11" value="Reload trang" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I4O5xyEKgsiIxu2QFyqc-11" value="Hoàn thành cập nhật bài đăng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="903" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4O5xyEKgsiIxu2QFyqc-12" value="Hợp lệ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
