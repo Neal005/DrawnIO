@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="jaGCuA6I-DwE8CbabSFz">
-    <mxGraphModel dx="1687" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1181" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jAo5l7hGSY5qiqxG5hAK-35" target="jAo5l7hGSY5qiqxG5hAK-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jAo5l7hGSY5qiqxG5hAK-35" value="Reload trang" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jAo5l7hGSY5qiqxG5hAK-35" value="Hoàn thành việc quản lý một khoa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1082" y="919" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-37" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -256,7 +256,7 @@
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jAo5l7hGSY5qiqxG5hAK-102" target="jAo5l7hGSY5qiqxG5hAK-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jAo5l7hGSY5qiqxG5hAK-102" value="Reload trang" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jAo5l7hGSY5qiqxG5hAK-102" value="Hoàn thành việc quản lý một chuyên ngành" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2202" y="919" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-103" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -428,7 +428,7 @@
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jAo5l7hGSY5qiqxG5hAK-146" target="jAo5l7hGSY5qiqxG5hAK-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jAo5l7hGSY5qiqxG5hAK-146" value="Reload trang" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jAo5l7hGSY5qiqxG5hAK-146" value="Hoàn thành việc quản lý một niên khóa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="2096" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-147" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
