@@ -800,7 +800,7 @@
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jAo5l7hGSY5qiqxG5hAK-246" target="jAo5l7hGSY5qiqxG5hAK-266" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="249" y="3114" />
+              <mxPoint x="294" y="3114" />
             </Array>
             <mxPoint x="249" y="3075" as="sourcePoint" />
           </mxGeometry>
@@ -810,6 +810,11 @@
             <Array as="points">
               <mxPoint x="772" y="3147" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XWeN_4JKdLyHIdtviyrm-2" value="Thất bại" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jAo5l7hGSY5qiqxG5hAK-264">
+          <mxGeometry x="-0.392" y="-1" relative="1" as="geometry">
+            <mxPoint x="-44" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jAo5l7hGSY5qiqxG5hAK-266" value="Gửi thông tin đến&lt;div&gt;máy chủ&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
