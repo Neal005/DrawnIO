@@ -4,48 +4,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3QYKropENr2u2JSyRMhY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-2">
+        <mxCell id="3QYKropENr2u2JSyRMhY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="212" />
+              <mxPoint x="797" y="212" />
               <mxPoint x="313" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3QYKropENr2u2JSyRMhY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-3">
+        <mxCell id="3QYKropENr2u2JSyRMhY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="212" />
+              <mxPoint x="797" y="212" />
               <mxPoint x="848" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3QYKropENr2u2JSyRMhY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-4">
+        <mxCell id="3QYKropENr2u2JSyRMhY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="212" />
+              <mxPoint x="797" y="212" />
               <mxPoint x="1056" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3QYKropENr2u2JSyRMhY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-13">
+        <mxCell id="3QYKropENr2u2JSyRMhY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="162" as="sourcePoint" />
+            <mxPoint x="555" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="767" y="213" />
-              <mxPoint x="555" y="213" />
+              <mxPoint x="797" y="212" />
+              <mxPoint x="555" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3QYKropENr2u2JSyRMhY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1" target="3QYKropENr2u2JSyRMhY-12">
+        <mxCell id="3QYKropENr2u2JSyRMhY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="162" as="sourcePoint" />
+            <mxPoint x="1294" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="767" y="213" />
-              <mxPoint x="1294" y="213" />
+              <mxPoint x="797" y="212" />
+              <mxPoint x="1294" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3QYKropENr2u2JSyRMhY-1" value="Người dùng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="739" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3QYKropENr2u2JSyRMhY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3QYKropENr2u2JSyRMhY-2" target="3QYKropENr2u2JSyRMhY-5">
           <mxGeometry relative="1" as="geometry" />
