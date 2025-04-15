@@ -200,8 +200,8 @@
         </mxCell>
         <mxCell id="3QYKropENr2u2JSyRMhY-52" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="852" y="886" as="sourcePoint" />
-            <mxPoint x="923" y="880" as="targetPoint" />
+            <mxPoint x="900" y="997" as="sourcePoint" />
+            <mxPoint x="971" y="991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPMu3xZUjg_8SGIAiDUJ-1" value="Vẽ ao/ruộng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
